@@ -1,3 +1,7 @@
-Hola, mi nombre es Juan Gaybre
+Hola, mi nombre es Juan Gaybre y tengo 26 años
 
 Estoy empezando a practicar con GitHub
+
+Nunca me sentí mas decidido que ahora a progrmar
+
+Aunque actualmente trabajo en el área de soporte lo lograré
