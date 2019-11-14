@@ -26,6 +26,7 @@ body
     font-weight: normal;
     font-size: 0.6em;
 }
+
 #container
 {
     width: 65%;
@@ -34,10 +35,12 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+
 #container h1
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
@@ -51,4 +54,12 @@ body
     border: 2px solid black;
     float: center;
     width: 400px;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
