@@ -67,7 +67,7 @@ body
 }
 #ua
 {
-    padding: 10px;
-    margin: 10px;
-    float: center;
+    padding: 0;
+    margin: 0;
+    width: 45%;
 }
