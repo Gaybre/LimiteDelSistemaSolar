@@ -9,4 +9,4 @@
 * Nunca pares de aprender
 
 
-Puedes acceder al github pages de este repositorio dando click  en [este enlace](https://gaybre.github.io/LimiteDelSistemaSolar/blogpost.html:// "page")
+Puedes acceder al github pages de este repositorio dando click  en [este enlace](https://gaybre.github.io/LimiteDelSistemaSolar/blogpost.html "page")
