@@ -7,6 +7,7 @@
 * Yo practico mi interacción en GitHub
 * Este fue el proyecto del curso de Git y GitHub en platzi
 * Nunca pares de aprender
+* Al finalizar este curso, le pondré sus bien merecidas 5 estrellas
 
 
 Puedes acceder al github pages de este repositorio dando click  en [este enlace](https://gaybre.github.io/LimiteDelSistemaSolar/blogpost.html "page")
