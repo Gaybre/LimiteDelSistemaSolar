@@ -11,5 +11,4 @@
 * Incluye ejemplos en Windows, Linux y Mac
 * Este Curso es muy necesario
 
-
 Puedes acceder al github pages de este repositorio dando click  en [este enlace](https://gaybre.github.io/LimiteDelSistemaSolar/blogpost.html "page")
